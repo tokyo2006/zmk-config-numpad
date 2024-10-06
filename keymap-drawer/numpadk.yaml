@@ -1,6 +1,6 @@
 layers:
   Number:
-  - {t: '$$mdi:apple-keyboard-caps$$', h: Rgb}
+  - {t: '$$mdi:apple-keyboard-shift$$', h: Rgb}
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: Navi, h: toggle}
